@@ -4,6 +4,8 @@
 # Intro
 ## Demonstrate sound capabilities of the atmega328P and manipulate its pitch. The 328P’s internal set of timers play a big role with a technique called pulse width modulation (PWM). With PWM, we are able to produce sounds off a speaker using voltage, which produces a square wave signal, and by adjusting the frequency within the 328p.
 
+# Demonstration
+## https://www.youtube.com/watch?v=g09L5LEvp38
 - ![finalprojectcpe301 1](https://user-images.githubusercontent.com/35685060/35753907-557faf00-0816-11e8-9e87-6604707e5f79.png)
 <img width="475" alt="equation" src="https://user-images.githubusercontent.com/35685060/35753925-66f9773e-0816-11e8-9dd1-954e670ed2b4.PNG">
 
